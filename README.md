@@ -18,8 +18,9 @@ Dosya dizin yapısı:
 ├── .gitignore
 ├── LICENSE
 ├── python/
-│   ├── meraba/
-│   └── README.md < ros2 101.
+│   ├── meraba/ < ros2 101.
+│   ├── ping_pong/ < ros2 ile masa tenisi.
+│   └── README.md
 ├── README.md < Şu anda buradasınız.
 └── run.sh
 ```
